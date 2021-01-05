@@ -1,0 +1,4 @@
+﻿  001_start.c
+D:\Programing\Project\C\001_start_solution\001_start\001_start.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+D:\Programing\Project\C\001_start_solution\001_start\001_start.c : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  001_start.vcxproj -> D:\Programing\Project\C\001_start_solution\Debug\001_start.exe
